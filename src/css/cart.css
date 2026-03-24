@@ -1,0 +1,69 @@
+
+.cart-items {
+  border-radius: 8px;
+  padding: 20px;
+}
+
+
+.subtotal-card {
+  border-radius: 8px;
+  padding: 20px;
+  border: 1px solid #409cbb;
+}
+
+.subtotal-card h5 {
+  color:white
+}
+
+.subtotal-card .d-flex {
+  font-size: 16px;
+}
+
+.coupon-input{
+  background-color: transparent;
+  border: 1px solid #409cbb;
+  color: white;
+}
+
+.coupon-btn {
+  border: 2px solid #409cbb;
+  color: white;
+  background-color: #409cbb;
+  font-weight: bold;
+  border: none;
+}
+
+.coupon-btn:hover{
+	color: white;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+
+/* Custom table styles */
+table thead {
+	border-bottom: 2px solid #409cbb; /* Solid blue bottom border for thead */
+  }
+  
+  table td {
+	border-bottom: 2px dotted #409cbb; /* Dotted blue bottom border for td */
+  }
+  
+
+  /* Custom styling for quantity buttons */
+.btn-total{
+	background-color: #409cbb;
+	color: white;
+	width: 100%;
+}
+.btn-total:hover{
+	color: white;
+}

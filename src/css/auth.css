@@ -1,0 +1,24 @@
+.auth-form {
+	width: 80%;
+	padding: 30px;
+	border-radius: 12px;
+	background: #1a1a2e;
+	box-shadow: 0 0 20px rgba(244, 148, 79, 0.5);
+
+}
+
+.auth-mainheading {
+	color: #00f0ff;
+	text-shadow: "0 0 10px #00f0ff";
+}
+
+
+.btn-gaming-blue {
+	background: linear-gradient(135deg, #00f0ff, #00aaff);
+	border: none;
+	font-weight: bold;
+}
+
+.btn-gaming-blue:hover {
+	background: linear-gradient(135deg, #00f0ff, #00aaff);
+}
